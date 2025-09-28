@@ -24,7 +24,9 @@ pip install matplotlib
 
 ```🔒 Simple Password Check 🔒```
 
+
 ```Enter your password. The input is hidden and not stored.```
+
 ```Password:``` Password
 
 ```✅ Status: Good```
