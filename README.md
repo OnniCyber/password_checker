@@ -26,8 +26,11 @@ pip install matplotlib
 
 ```Enter your password. The input is hidden and not stored.```
 ```Password:``` Password
+
 ```✅ Status: Good```
+
 ```🔢 Length: 8 characters```
+
 ```(Internal score: 45.6 — not necessary to understand.)```
 
 ```‼️  WARNING: This is a common password. Very easy to break. ‼️```
