@@ -38,8 +38,11 @@ pip install matplotlib
 ```--- Scenarios (how fast it can be cracked) ---```
 
 ```- Online, very limited (login forms) (10/s): 847.6 centuries — Practically impossible to break.```
+
 ```- Online, lightly limited (older sites) (100/s): 84.8 centuries — Practically impossible to break.```
+
 ```- Local attack (single GPU) (1,000,000,000/s): 7.4 h — Broken within a day.```
+
 ```- Big attacker (GPU cluster) (100,000,000,000/s): 4.5 min — Broken in under an hour.```
 
 ```--- Quick advice ---```
