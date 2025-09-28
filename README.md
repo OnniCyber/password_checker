@@ -33,7 +33,9 @@ pip install matplotlib
 
 ```(Internal score: 45.6 — not necessary to understand.)```
 
+
 ```‼️  WARNING: This is a common password. Very easy to break. ‼️```
+
 
 ```--- Scenarios (how fast it can be cracked) ---```
 
@@ -45,9 +47,11 @@ pip install matplotlib
 
 ```- Big attacker (GPU cluster) (100,000,000,000/s): 4.5 min — Broken in under an hour.```
 
+
 ```--- Quick advice ---```
 
 ```Good. You can still improve.```
+
 
 ```Tips:```
 
@@ -58,6 +62,7 @@ pip install matplotlib
 ```🔣 Add symbols (e.g. !?@#).```
 
 ```⚠️  Don't use common or very short passwords.```
+
 
 ```🔐 Final tip: Use MFA (Multi-Factor Authentication) when possible. 👍```
 
