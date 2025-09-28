@@ -68,7 +68,7 @@ pip install matplotlib
 
 ```🔐 Final tip: Use MFA (Multi-Factor Authentication) when possible. 👍```
 
-Also the visual bar chart will appear if `MATPLOTLIB` installed.
+Also the visual bar chart will appear if `matplotlib` installed.
 
 ## Notes:
 
